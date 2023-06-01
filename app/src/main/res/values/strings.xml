@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flow Solver</string>
+    <string name="title_activity_solution">SolutionActivity</string>
+</resources>
